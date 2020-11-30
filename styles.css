@@ -11,6 +11,30 @@ body {
   color: #f9f7cf;
 }
 
+.mission {
+  width: 250px;
+  position: absolute;
+  top: 450px;
+  left: 380px;
+  color: #333;
+}
+
+.vision {
+  width: 250px;
+  position: absolute;
+  top: 650px;
+  left: 380px;
+  color: #333;
+}
+
+.modeDesc {
+  width: 300px;
+  position: absolute;
+  top: 600px;
+  left: 10px;
+  color: #edf285;
+}
+
 .sudo {
   font-size: 8px;
   position: absolute;
@@ -21,8 +45,9 @@ body {
 .ref {
   position: absolute;
   top: 100px;
-  right: 100px;
+  right: 10px;
   color: #eee;
+  width: 200px;
 }
 
 .container {
