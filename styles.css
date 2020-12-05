@@ -11,6 +11,10 @@ body {
   color: #f9f7cf;
 }
 
+.difCol {
+  color: #edf285;
+}
+
 .mission {
   width: 250px;
   position: absolute;
@@ -48,6 +52,11 @@ body {
   right: 10px;
   color: #eee;
   width: 200px;
+  font-size: x-small;
+}
+
+.Ref {
+  font-size: 16px;
 }
 
 .container {
@@ -80,6 +89,7 @@ body {
 }
 
 .strategy {
+  font-size: 10px;
   left: 630px;
   top: 18px;
   /* left: 310px;  */
@@ -118,7 +128,7 @@ body {
   left: 325px;
   position: absolute;
   width: 230px;
-  height: 380px;
+  height: 430px;
   padding: 6px;
   background: #fff;
   /* margin: 80px auto; */
